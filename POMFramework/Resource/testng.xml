@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><suite name="SimpleAppiumFramework"><parameter name="TestMethod1" value="Resource\\TestMethod1.xls"/><test name="testing"><classes><class name="com.pom.TestCaller"><methods><include name="TestMethod1"/></methods></class></classes></test></suite>
