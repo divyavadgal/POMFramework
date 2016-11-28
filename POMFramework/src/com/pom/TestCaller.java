@@ -20,7 +20,7 @@ public class TestCaller {
   @Test
   public void TestMethod1() throws InterruptedException, IOException {
 	  WebDriver driver=new FirefoxDriver();
-		String excelPath="C:/Users/Bachhi/myprojectworkspace/POMFramework/googleSearchData.xls";
+		String excelPath="C:/Users/Bachhi/git/POMFrameworkProject/POMFramework/googleSearchData.xls";
 		String sheetName="Sheet1";
 		String searchData;
 		// TODO Auto-generated method stub

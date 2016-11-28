@@ -29,7 +29,7 @@ public class XmlUtil {
  
 			String xlFilePath = null;
  
-			xlFilePath = "C:/Users/Bachhi/myprojectworkspace/POMFramework/Resource/xmlmethods.xls";
+			xlFilePath = "C:/Users/Bachhi/git/POMFrameworkProject/POMFramework/Resource/xmlmethods.xls";
  
 			ExcelLib lib = new ExcelLib(xlFilePath,"Sheet1");
 			lib.readHeaderData();
